@@ -24,13 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anfruiz/playwright-demo.git"
+    "url": "https://github.com/juniiormediina/PlayWright-Test-Demo.git"
   },
   "keywords": [],
-  "author": "Andres Felipe Ruiz Medina <anfruiz@bancolombia.com.co>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anfruiz/playwright-demo/issues"
-  },
-  "homepage": "https://github.com/anfruiz/playwright-demo#readme"
+  "author": "",
+  "license": "ISC"
 }
